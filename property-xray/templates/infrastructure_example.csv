@@ -1,0 +1,21 @@
+project_id,category,status,completion_year,lat,lon
+I01,Metro / rail,Under construction,2027,13.0382,80.1565
+I02,Metro / rail,Under construction,2027,13.05,80.2121
+I03,Metro / rail,Under construction,2028,12.901,80.2279
+I04,Metro / rail,Under construction,2028,12.9654,80.2461
+I05,Metro / rail,Approved - funded,2030,12.9249,80.1
+I06,Metro / rail,Proposed,2031,12.9815,80.218
+I07,Metro / rail,Stalled,2026,12.99,80.22
+I08,Expressway / ring road,Under construction,2027,12.9,80.07
+I09,Expressway / ring road,Approved - funded,2029,13.07,80.2
+I10,Expressway / ring road,Proposed,2031,12.93,80.233
+I11,Airport,Completed,2024,12.9941,80.1709
+I12,Bus terminus / ISBT,Completed,2023,12.844,80.081
+I13,IT park / SEZ / business district,Under construction,2027,12.8467,80.2265
+I14,IT park / SEZ / business district,Completed,2022,12.965,80.25
+I15,Industrial corridor,Under construction,2026,13.1143,80.1548
+I16,Water / drainage / flood control,Under construction,2026,13.0067,80.248
+I17,Water / drainage / flood control,Under construction,2027,12.9815,80.22
+I18,Nuisance (waste / power plant),Completed,2000,12.956,80.24
+I19,Public realm / smart city,Completed,2022,13.0418,80.2341
+I20,Healthcare / education hub,Approved - funded,2029,13.085,80.2101
